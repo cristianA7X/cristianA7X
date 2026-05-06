@@ -1,8 +1,8 @@
-# 💫 About Me
+# 💫 Sobre mí
 
 Desarrollador orientado a backend, enfocado en el ecosistema .NET.
 
-Actualmente trabajando con C#, ASP.NET y Entity Framework Core, aprendiendo a construir APIs y aplicaciones con buena estructura y prácticas profesionales.
+Actualmente trabajo con C#, ASP.NET y Entity Framework Core, aprendiendo a construir APIs y aplicaciones con una buena estructura y prácticas profesionales.
 
 Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 - Diseño de APIs REST
@@ -13,7 +13,7 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ---
 
-## 🧩 Current Focus
+## 🧩 Enfoque actual
 
 - Backend con .NET
 - Entity Framework Core
@@ -22,7 +22,7 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ---
 
-## 🌐 Socials
+## 🌐 Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chris_a7x__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianezequiellopez/)
@@ -30,9 +30,9 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tecnologías
 
-## 🧠 Core (Backend)
+## 🧠 Principal (Backend)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -41,7 +41,7 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ---
 
-## 🗄️ Secundario
+## 🗄️ Secundarias
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,14 +49,14 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ---
 
-## 🎨 Complementario
+## 🎨 Complementarias
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## ⚙️ Tools
+## ⚙️ Herramientas
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -65,9 +65,9 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 
 ## 📌 Próximos proyectos
 
-- API REST con .NET + EF Core
-- Sistema con autenticación JWT
-- Aplicación con arquitectura en capas
+- API REST con .NET + EF Core  
+- Sistema con autenticación JWT  
+- Aplicación con arquitectura en capas  
 
 ---
 
