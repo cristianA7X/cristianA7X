@@ -1,5 +1,15 @@
 # 💫 About Me:
-c# dotnet developer efcore aspdotnet
+Desarrollador orientado a backend, enfocado en el ecosistema .NET.
+
+Actualmente trabajando con C#, ASP.NET y Entity Framework Core, aprendiendo a construir APIs y aplicaciones con buena estructura y prácticas profesionales.
+
+Mi enfoque está en desarrollar una base sólida en backend, priorizando:
+
+Diseño de APIs REST
+Modelado de datos
+Buenas prácticas y arquitectura
+
+🚀 En proceso de construir proyectos reales que reflejen estas habilidades.
 
 
 ## 🌐 Socials:
