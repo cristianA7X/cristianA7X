@@ -1,1 +1,1 @@
-![Cards de cristianA7X](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=cristianA7X&theme=2077)
+![Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianA7X&layout=compact&theme=dark&v=123)
