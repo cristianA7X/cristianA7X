@@ -72,3 +72,5 @@ Mi enfoque está en desarrollar una base sólida en backend, priorizando:
 ---
 
 ![](https://komarev.com/ghpvc/?username=cristianA7X&icon=0&color=0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
